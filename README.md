@@ -4,7 +4,7 @@ The SnowByte is an Open-Source Remote Controlled (RC) Snowplow that can help in 
 
 The frame was made using aluminum linear rails and 1/4" polycarbonate panels. Most of the electronics and mechanical parts are off-the-shelf, but it does require some 3D-printed parts and a few other components to complete the project. If you have worked with any hobby electronics for RC toys, and have access to some basic power tools, then you should have no problem building this project.
 
-I would love to see your own creations of this project and maybe feature them here as well. Please email me at cele9999@gmail.com with any videos/pics of your project. -Gerardo Cruz
+I would love to see your own creations of this project and maybe feature them here as well. Please email me at cele9999@gmail.com with any videos/pics of your project. This code and 3D-print models are entirely free to use and will stay that way forever. If you found this helpful for your project, donations are appreciated: [Buy me a Pizza](https://bmc.link/cele9999)
 
 # Patents, Local Laws, Liability
 
