@@ -1,4 +1,5 @@
 # RCSnowplow
+![RCSnowplow Logo](https://github.com/cele9999/RCSnowplow/blob/main/images/rcsnowplow.jpg)
 The SnowByte is an Open-Source Remote Controlled (RC) Snowplow that can help in clearing or removing snow from your driveway. Its a bare-bones RC vehicle that can be modified or customized using its code and supporting documentation. My goal was to put together a simple open-source Snowplow machine that people could build upon.
 
 The frame was made using aluminum linear rails and 1/4" polycarbonate panels. Most of the electronics and mechanical parts are off-the-shelf, but it does require some 3D-printed parts and a few other components to complete the project. If you have worked with any hobby electronics for RC toys, and have access to some basic power tools, then you should have no problem building this project.
